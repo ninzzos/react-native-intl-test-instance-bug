@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/jdmg/Documents/intlTest/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/jdmg/.gradle/caches/transforms-2/files-2.1/6a9e3766c78b02633591b854a9d380e4/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
